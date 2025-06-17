@@ -3,7 +3,7 @@
 ⭐Self-taught Front-End Dev<br>
 🧠Code Graduate at SheCodes<br>
 🎨I turn designs into real websites<br>
-🛰️Currently on a journey of becoming a Software Dev<br
+🛰️Currently on a journey of becoming a Software Dev
 
 
 ## 🌐 Socials:
